@@ -4,7 +4,7 @@ Archivio1.zip contiene al suo interno un'ulteriore file in formato ZIP che verr�
 la cartella "contiene" ha al suo interno diverse cartelle che contengono file e archivi ZIP
 
 
-Verrà creata una nuova cartella "filestratti" che ospiterà tutti i file ZIP (presenti nella directory)estratti. 
+Verrà creata una nuova cartella "filestratti" che ospiterà tutti i file ZIP (presenti nella directory) estratti. 
 
 
 
